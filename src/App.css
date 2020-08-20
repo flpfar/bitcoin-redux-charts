@@ -1,0 +1,26 @@
+.chart-wrapper, canvas {
+  margin: auto;
+  max-width: 1250px;
+  max-height: 75vh;
+}
+
+.chart-wrapper {
+  margin-top: 50px;
+}
+
+.btns-wrapper {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+  position: relative;
+}
+
+input {
+  margin-left: 20px;
+  width: 250px;
+}
+
+p {
+  position: absolute;
+  bottom: -50px;
+}
